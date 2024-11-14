@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff463117.css",
+    "main.js": "/static/js/main.a509054e.js",
+    "static/media/instaImg.png": "/static/media/instaImg.680cd208c9a25dae2e42.png",
+    "static/media/instaLogo.png": "/static/media/instaLogo.0ba64e82656d6150e154.png",
+    "index.html": "/index.html",
+    "main.ff463117.css.map": "/static/css/main.ff463117.css.map",
+    "main.a509054e.js.map": "/static/js/main.a509054e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff463117.css",
+    "static/js/main.a509054e.js"
+  ]
+}
